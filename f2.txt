@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is added in remote repository
+=======
+this file is added to fb
+>>>>>>> fb
